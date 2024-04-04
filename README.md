@@ -18,8 +18,8 @@ Project repo: https://github.com/mflix24/TelegraBot.git
 
 # STEP 01- Create a conda environment after opening the repository
 ```
-conda create -n codbot python=3.8 -y
-conda activate codbot
+conda create -n telbot python=3.8 -y
+conda activate telbot
 ```
 
 
