@@ -9,6 +9,12 @@ This is a repository for merging the chatbot in the telegram application. We mus
 - OpenAI
 
 
+# aiogram documents link :
+```
+website link: https://docs.aiogram.dev/en/latest/
+```
+
+
 # Steps to be followed by :
 Clone the repository by :
 ```
@@ -39,6 +45,15 @@ OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
 python app.py
 ```
+
+
+# Telegram Setup 
+01. Search for the name by BotFather
+02. Click the start button
+03. type /newbot
+04. write down an unique name for the new bot
+05. write down an unique user name for the bot
+06. Now go to the link of the bot which we just created
 
 
 

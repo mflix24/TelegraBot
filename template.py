@@ -9,9 +9,8 @@ logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 list_of_files = [
     ".env",
     "requirements.txt",
-    "setup.py",
-    "app.py",
-    "research/dev_telegrabot.ipynb"
+    "research/echobot.py",
+    "research/dev_echo_bot.ipynb"
 ]
 
 
