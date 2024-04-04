@@ -10,7 +10,8 @@ list_of_files = [
     ".env",
     "requirements.txt",
     "research/echobot.py",
-    "research/dev_echo_bot.ipynb"
+    "research/dev_echo_bot.ipynb",
+    "telbot.py"
 ]
 
 
