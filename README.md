@@ -1,0 +1,2 @@
+# TelegraBot
+This is a repository for merging the chatbot in the telegram application. We must have telegram account. We are going to use openai api key for fasting the application. We can also use open source model from Hugging Face platform.
